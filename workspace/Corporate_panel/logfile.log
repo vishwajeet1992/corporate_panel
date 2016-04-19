@@ -1,0 +1,18 @@
+2016-Apr-18 18:12:08,207 [main] utility.Log 
+  INFO  Webdriver initiated successfully.
+2016-Apr-18 18:12:08,219 [main] utility.Log 
+  INFO  Implicit wait applied on driver for 20 seconds
+2016-Apr-18 18:12:15,068 [main] utility.Log 
+  INFO  Web application launched successfully
+2016-Apr-18 18:12:18,554 [main] utility.Log 
+  INFO  User Name text box is found on the login page.
+2016-Apr-18 18:12:18,658 [main] utility.Log 
+  INFO  username is entered in the text box
+2016-Apr-18 18:12:18,670 [main] utility.Log 
+  INFO  Password text box found on the login page.
+2016-Apr-18 18:12:18,730 [main] utility.Log 
+  INFO  Password is entered in the text box
+2016-Apr-18 18:12:18,740 [main] utility.Log 
+  INFO  Login button found on the page
+2016-Apr-18 18:12:18,853 [main] utility.Log 
+  INFO  Login Button is clicked.
